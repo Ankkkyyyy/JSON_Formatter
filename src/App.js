@@ -146,7 +146,7 @@ function App() {
     <Header/>
     <Section/>
 
-    <Flex direction={['column','column','row']} >
+    <Flex direction={['column','column','row']} justify="center" align="center" >
 
          <Input input ="inputArea" 
                 value={inputArea} 
