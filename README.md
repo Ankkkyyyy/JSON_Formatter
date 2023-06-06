@@ -20,4 +20,13 @@ JSON formatter is a free online tool designed to assist users in formatting and 
 
 ## <img width="880" alt="AnalyticsHub2" src="https://github.com/Ankkkyyyy/JSON_FormatterReact_Webapp/blob/master/imagesForReadMe/8.png">
 
+## Tech Stack
 
+**HTML/CSS**, **React**, **Chakra UI** 
+
+## Link 
+
+Link: <a href="http://json-formatter.surge.sh/" > http://json-formatter.surge.sh/ </a>
+
+## Authors
+- [@Ankkkyyyy](https://www.github.com/Ankkkyyyy)
