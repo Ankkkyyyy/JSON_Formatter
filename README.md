@@ -26,7 +26,7 @@ JSON formatter is a free online tool designed to assist users in formatting and 
 
 ## Link 
 
-Link: <a href="http://json-formatter.surge.sh/" > http://json-formatter.surge.sh/ </a>
+Link: <a href="http://json-formatter.surge.sh/" target='_blank' > http://json-formatter.surge.sh/ </a>
 
 ## Authors
 - [@Ankkkyyyy](https://www.github.com/Ankkkyyyy)
